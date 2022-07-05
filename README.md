@@ -1,5 +1,4 @@
 - Hi, I’m @isarushijain
-- I’m currently pursuing my Bachelor's in Computer Science Engineering.
 - 📫 arushijain006@gmail.com
 
 <!---
